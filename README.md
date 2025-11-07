@@ -65,7 +65,7 @@ This repository implements a compact **Flappy Bird** environment, **DQN / Double
   - `play_model_no_render(num_episodes=10, target_score=1000, dif="normal")` — headless evaluation + plotting.
 - Loads checkpoint automatically from `CHECKPOINT_PATH`.
 
-### 🪟 `main.py`
+### 🎯 `main.py`
 
 - **Tkinter GUI** exposing: Train / Load+Train / Play (Render / No Render).
 - Redirects `stdout` to GUI console for easy log monitoring.
