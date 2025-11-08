@@ -4,7 +4,7 @@
 
 ## 📘 **Summary**
 
-This repository implements a compact **Flappy Bird** environment, **DQN / Double-DQN agents**, training & evaluation utilities, and a simple **GUI / console front-end** to run experiments and play the trained agent.
+A custom Flappy Bird environment and reinforcement learning setup featuring DQN and Double-DQN agents. The repository includes training and evaluation modules, model checkpointing, and both GUI and console-based interfaces for running experiments and interacting with the trained agent. Developed as a third-year university project with a focus on RL experimentation and reproducibility.
 
 ---
 
